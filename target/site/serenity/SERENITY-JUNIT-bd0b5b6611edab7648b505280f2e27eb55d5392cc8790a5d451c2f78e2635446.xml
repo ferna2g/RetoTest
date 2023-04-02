@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="Iniciar sesion en Sauce Demo" skipped="0" tests="5" time="37.43" timestamp="2023-04-02 10:32:32"><testcase name="Iniciar sesion con exito"/><testcase name="Agregar un producto al carrito de compras"/><testcase name="Ordenar por precio de menor a mayor"/></testsuite>
